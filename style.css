@@ -1,0 +1,26 @@
+.heading{
+    font-size: 18px;
+    width: 100%;
+    box-shadow: 4px 4px 2px turquoise;
+}
+.note{
+    font-size: 16px;
+    color:rgb(255, 109, 255);
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: lightyellow;
+    width: 100%;
+    text-align: center;
+    color:rgb(142, 130, 20);
+    line-height: 4;
+}
+canvas{
+border: 5px dotted bisque;
+
+}
+body{
+    background-image: url("download.jpg");
+    background-size: cover;
+}
